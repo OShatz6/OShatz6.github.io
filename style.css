@@ -1,0 +1,25 @@
+h1 {
+    margin-left: 15%;
+    font-family: 'Lucida Sans';
+    font-size: 40px;
+}
+p {
+    margin-left: 10%;
+    font-family: 'Lucida Sans';
+    font-size: 25px;
+}
+.char {
+    font-family: 'Lucida Sans';
+    font-size: 20px;
+}
+#contacts {
+    font-family: 'Lucida Sans';
+    font-size: 20px;
+}
+.char:hover {
+    color:#4E0000;
+}
+button {
+    background-color: #834C4C;
+    color:#EDE5E5;
+}
